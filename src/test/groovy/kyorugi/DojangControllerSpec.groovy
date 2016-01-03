@@ -11,8 +11,8 @@ class DojangControllerSpec extends Specification {
         assert params != null
 
         // TODO: Populate valid properties like...
-        //params["name"] = 'someValidName'
-        assert false, "TODO: Provide a populateValidParams() implementation for this generated test suite"
+        params["name"] = 'Red Phoenix'
+   //     assert false, "TODO: Provide a populateValidParams() implementation for this generated test suite"
     }
 
     void "Test the index action returns the correct model"() {
@@ -149,4 +149,6 @@ class DojangControllerSpec extends Specification {
             response.redirectedUrl == '/dojang/index'
             flash.message != null
     }
+
+
 }

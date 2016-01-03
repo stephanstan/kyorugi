@@ -9,6 +9,8 @@ To emphasize a portion of a word, use asterisks (*).
 
 https://help.github.com/articles/github-flavored-markdown/
 
+http://www.martialartsresource.com/korean/TKD.list.htm
+
 ~~Mistaken text.~~
 
 ```
