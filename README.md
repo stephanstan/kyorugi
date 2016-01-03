@@ -3,7 +3,7 @@ Taekwondo tournament management software
 
 To emphasize a portion of a word, use asterisks (*).
 
-empha*sized
+empha*s*ized
 
 
 https://help.github.com/articles/github-flavored-markdown/
