@@ -3,7 +3,8 @@ Taekwondo tournament management software
 
 To emphasize a portion of a word, use asterisks (*).
 
-empha*s*ized
+*This text will be italic*
+**This text will be bold**
 
 
 https://help.github.com/articles/github-flavored-markdown/
