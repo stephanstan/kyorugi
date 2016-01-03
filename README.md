@@ -6,7 +6,7 @@ To emphasize a portion of a word, use asterisks (*).
 empha*sized
 
 
-http://example.com
+https://help.github.com/articles/github-flavored-markdown/
 
 ~~Mistaken text.~~
 
