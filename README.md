@@ -11,6 +11,8 @@ https://help.github.com/articles/github-flavored-markdown/
 
 http://www.martialartsresource.com/korean/TKD.list.htm
 
+http://localhost:8080/kyorugi/dojang/index
+
 ~~Mistaken text.~~
 
 ```
