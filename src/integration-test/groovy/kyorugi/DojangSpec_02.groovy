@@ -5,11 +5,7 @@ import spock.lang.Specification
 import grails.test.mixin.integration.Integration
 import grails.transaction.*
 import spock.lang.*
-
-/**
- * See the API for {@link grails.test.mixin.domain.DomainClassUnitTestMixin} for usage instructions
- */
-@Integration
+import org.apache.Integration
 @Rollback
 @TestFor(Dojang)
 class DojangSpec_02 extends Specification {
